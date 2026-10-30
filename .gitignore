@@ -16,3 +16,6 @@ local.properties
 # OS / logs
 .DS_Store
 *.log
+
+# Design critique snapshots (local tooling)
+.impeccable/
