@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Minimalist Launcher</string>
+    <string name="wallpaper_description">Black and cyan dial wallpaper that follows the battery colour. Static: it never animates.</string>
+</resources>
